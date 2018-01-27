@@ -2,7 +2,6 @@
 ===
 
 ## Submission Instructions
-* Continue working from Lab-38
 * Submit a pull request
 
 #### Feture Tasks
